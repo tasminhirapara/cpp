@@ -1,10 +1,5 @@
 #include<iostream>
 using namespace std;
-int tas()
-{
-
-     return 0;
-}
 int main()
 {
      cout<<"hello world "<<endl;
